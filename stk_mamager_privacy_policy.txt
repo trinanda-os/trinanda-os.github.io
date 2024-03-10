@@ -1,0 +1,8 @@
+STK MAnager App Privacy Policy
+
+
+We built an application to help business and manage goods in and out.
+
+Our application does not require any of your personal data.
+
+Our application collects inventory data and stores it locally on your cellphone.
