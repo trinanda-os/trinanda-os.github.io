@@ -1,46 +1,54 @@
 
 
-# Privacy Policy for FlexNote
+# FlexNote Privacy Policy
 
 **Last Updated:** December 18, 2025
 
-This Privacy Policy describes how **FlexNote** ("we," "our," or "the App") handles your information. Your privacy is a priority, and the App is designed to operate with minimal data collection.
+This Privacy Policy describes how **FlexNote** ("we," "our," or "the App") handles your information. Your privacy is a priority, and the App is designed to prioritize local storage and user control.
 
 ## 1. Information Collection and Use
 
-### User-Generated Content
+### User-Generated Content & Media
 
-FlexNote is a note-taking application. All notes, text, and media you input into the App are **stored locally** on your device. We do not upload your notes to external servers, nor do we have access to the content of your notes.
+FlexNote allows you to create notes and attach **image files** from your device.
+
+* **Storage:** All notes and attached images are **stored locally** on your device.
+* **Access:** The App requires permission to access your gallery or media storage only to allow you to select and display images within your notes. We do not upload these images to any external servers.
+
+### Phone Numbers
+
+If you input a **phone number** into a note:
+
+* **Storage:** This data is stored strictly as part of the local note file on your device.
+* **Usage:** We do not use your phone number for authentication, marketing, or communication purposes. It is treated as private text content.
 
 ### Location Data (GPS)
 
-FlexNote may request access to your device's **GPS location** only if you choose to use features that require it (e.g., tagging a note with a location).
+FlexNote may request access to your device's **GPS location** only if you choose to use features that require it (e.g., geotagging a note).
 
-* **Purpose:** To provide location-based context to your notes.
-* **Storage:** This data is stored locally on your device as part of your note metadata.
-* **Control:** This is an optional feature. You can grant or revoke location permissions at any time through your Android system settings.
+* **Storage:** This data is saved locally as metadata for that specific note.
+* **Control:** You can enable or disable location permissions at any time via Android Settings.
 
 ## 2. Data Storage and Security
 
 Because your data is stored locally:
 
-* **No Cloud Storage:** We do not host your data on our servers.
-* **User Responsibility:** You are responsible for backing up your data and securing your device. If you uninstall the App or factory reset your device, your locally stored notes may be permanently deleted.
+* **No Cloud Sync:** We do not host your notes, images, or contact details on our servers.
+* **Data Loss:** Please be aware that deleting the App or clearing App data may result in the loss of your stored notes and images, as we do not maintain backups.
 
-## 3. Third-Party Services
+## 3. Third-Party Access
 
-FlexNote does not share your personal information or location data with third-party advertisers or data brokers.
+FlexNote does not share, sell, or trade your images, phone numbers, or location data with third-party services, advertisers, or analytics providers.
 
-## 4. Children’s Privacy
+## 4. Permissions
 
-Our App does not knowingly collect any personal identifiable information from children. Since all data is stored locally on the user's device, we do not have a database of user ages or identities.
+To function correctly, FlexNote may request:
 
-## 5. Changes to This Policy
+* **Storage/Media:** To save and view image attachments.
+* **Location:** To add location tags to notes (optional).
 
-We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately upon being posted within the App or on our official store listing.
+## 5. Contact Us
 
-## 6. Contact Us
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+If you have any questions regarding this policy, please contact us at:
 **egatrinanda.id@gmail.com**
 
